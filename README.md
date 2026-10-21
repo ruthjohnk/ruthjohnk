@@ -12,4 +12,4 @@
 
 ---
 
-*Learning. Building. Breaking things ethically. 🔐*
+*Learning. Building. Breaking things ethically.* 🔐
