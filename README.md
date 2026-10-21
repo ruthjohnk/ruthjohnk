@@ -1,4 +1,4 @@
-# Hi, I'm Ruth John 👋
+# 𝐇𝐢, 𝐈'𝐦 𝐑𝐮𝐭𝐡 𝐉𝐨𝐡𝐧 👋
 
 - 🔐 *I'm interested in **Cybersecurity, Capture The Flag (CTF) challenges, and ethical hacking**.*
 - 🌱 *I'm currently learning **Cybersecurity, Networking, Linux, Python, and Web Security**.*
